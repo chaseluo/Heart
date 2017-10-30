@@ -1,7 +1,7 @@
 package com.heart.entity;
 
 /**
- * @author Administrator
+ * @author 111
  * 数据库实体 用户表
  */
 public class Mem_User {
